@@ -16,4 +16,9 @@
 import pandas as pd
 
 sleep = pd.read_csv("Spend_Sleeping.csv")
+mental = pd.read_csv("Mental_health_Depression_disorder_Data.csv")
+credit = pd.read_csv("clean_dataset.csv")
 
+print(sleep.head())
+print(mental.head())
+print(credit.head())
