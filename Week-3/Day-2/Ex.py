@@ -38,3 +38,31 @@ df["Title"] = df["Name"].str.extract(r",\s*([^.]+)\.")
 df_encoded = pd.get_dummies(df, columns=["Sex", "Embarked", "Title"], drop_first=True)
 
 print(df_encoded.head())
+
+# Exercice 4
+
+sns.boxplot(x=df["Fare"])
+
+Q1 = df["Fare"].quantile(0.25)
+Q3 = df["Fare"].quantile(0.75)
+
+IQR = Q3 - Q1
+
+lower = Q1 - 1.5 * IQR
+upper = Q3 + 1.5 * IQR
+
+cap = df["Fare"].quantile(0.98)
+df["Fare"] = df["Fare"].clip(upper=cap)
+
+# Exercice 6
+
+df = pd.get_dummies(df, columns=["Sex", "Embarked"], drop_first=True)
+
+# Exercice 7
+
+bins = [0, 12, 18, 60, 100]
+labels = ["Child", "Teen", "Adult", "Senior"]
+
+df["AgeGroup"] = pd.cut(df["Age"], bins=bins, labels=labels)
+
+df = pd.get_dummies(df, columns=["AgeGroup"])
