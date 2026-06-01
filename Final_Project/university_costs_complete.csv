@@ -1,0 +1,1504 @@
+Institution Name,Location,Tuition_USD,Rent_USD,Insurance_USD,Total_Annual_USD,Languages,Level,Budget_Category
+Massachusetts Institute of Technology (MIT),US,57590,1500,1500,77090,English,"Bachelor, Master, PhD",Very High
+Imperial College London,UK,35100,1200,600,50100,English,"Bachelor, Master, PhD",High
+University of Oxford,UK,26770,1200,600,41770,English,"Bachelor, Master, PhD",High
+Harvard University,US,54768,1500,1500,74268,English,"Bachelor, Master, PhD",Very High
+University of Cambridge,UK,25000,1200,600,40000,English,"Bachelor, Master, PhD",High
+Stanford University,US,56169,1500,1500,75669,English,"Bachelor, Master, PhD",Very High
+ETH Zurich - Swiss Federal Institute of Technology,CH,1460,1600,600,21260,"German, French, English","Bachelor, Master, PhD",Low
+National University of Singapore (NUS),SG,17550,1800,600,39750,"English, Chinese","Bachelor, Master, PhD",Medium
+UCL,UK,26200,1200,600,41200,English,"Bachelor, Master, PhD",High
+California Institute of Technology (Caltech),US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Pennsylvania,US,60042,1500,1500,79542,English,"Bachelor, Master, PhD",Very High
+"University of California, Berkeley (UCB)",US,44066,1500,1500,63566,English,"Bachelor, Master, PhD",Very High
+The University of Melbourne,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Peking University,CN,4700,500,300,11000,"Chinese, English","Bachelor, Master, PhD",Low
+"Nanyang Technological University, Singapore (NTU)",SG,18000,1800,600,40200,"English, Chinese","Bachelor, Master, PhD",Medium
+Cornell University,US,57222,1500,1500,76722,English,"Bachelor, Master, PhD",Very High
+The University of Hong Kong,HK,18000,2000,600,42600,"English, Chinese","Bachelor, Master, PhD",Medium
+The University of Sydney,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+The University of New South Wales (UNSW Sydney),AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Tsinghua University,CN,4700,500,300,11000,"Chinese, English","Bachelor, Master, PhD",Low
+University of Chicago,US,60552,1500,1500,80052,English,"Bachelor, Master, PhD",Very High
+Princeton University,US,57410,1500,1500,76910,English,"Bachelor, Master, PhD",Very High
+Yale University,US,57700,1500,1500,77200,English,"Bachelor, Master, PhD",Very High
+Université PSL,FR,3000,900,300,14100,"French, English","Bachelor, Master, PhD",Low
+University of Toronto,CA,38550,1200,800,53750,"English, French","Bachelor, Master, PhD",High
+EPFL,CH,1460,1600,600,21260,"German, French, English","Bachelor, Master, PhD",Low
+The University of Edinburgh,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Technical University of Munich,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+McGill University,CA,22000,1200,800,37200,"English, French","Bachelor, Master, PhD",High
+The Australian National University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Seoul National University,KR,4900,700,400,13700,"Korean, English","Bachelor, Master, PhD",Low
+Johns Hopkins University,US,57010,1500,1500,76510,English,"Bachelor, Master, PhD",Very High
+The University of Tokyo,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Columbia University,US,63530,1500,1500,83030,English,"Bachelor, Master, PhD",Very High
+The University of Manchester,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+The Chinese University of Hong Kong (CUHK),HK,18000,2000,600,42600,"English, Chinese","Bachelor, Master, PhD",Medium
+Monash University,AU,34000,1100,500,47700,English,"Bachelor, Master, PhD",High
+University of British Columbia,CA,30000,1200,800,45200,"English, French","Bachelor, Master, PhD",High
+Fudan University,CN,4700,500,300,11000,"Chinese, English","Bachelor, Master, PhD",Low
+King's College London,UK,22680,1200,600,37680,English,"Bachelor, Master, PhD",High
+The University of Queensland,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+"University of California, Los Angeles (UCLA)",US,44830,1500,1500,64330,English,"Bachelor, Master, PhD",Very High
+New York University (NYU),US,54880,1500,1500,74380,English,"Bachelor, Master, PhD",Very High
+University of Michigan-Ann Arbor,US,52266,1500,1500,71766,English,"Bachelor, Master, PhD",Very High
+Shanghai Jiao Tong University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Institut Polytechnique de Paris,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+The Hong Kong University of Science and Technology,HK,18000,2000,600,42600,"English, Chinese","Bachelor, Master, PhD",Medium
+Zhejiang University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Delft University of Technology,NL,14000,1000,400,26400,"Dutch, English","Bachelor, Master, PhD",Medium
+Kyoto University,JP,5600,900,500,16900,"Japanese, English","Bachelor, Master, PhD",Medium
+Northwestern University,US,60768,1500,1500,80268,English,"Bachelor, Master, PhD",Very High
+The London School of Economics and Political Science (LSE),UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+KAIST - Korea Advanced Institute of Science & Technology,KR,4900,700,400,13700,"Korean, English","Bachelor, Master, PhD",Low
+University of Bristol,UK,20500,1200,600,35500,English,"Bachelor, Master, PhD",High
+University of Amsterdam,NL,13000,1000,400,25400,"Dutch, English","Bachelor, Master, PhD",Medium
+Yonsei University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+The Hong Kong Polytechnic University,HK,18000,2000,600,42600,"English, Chinese","Bachelor, Master, PhD",Medium
+Carnegie Mellon University,US,58864,1500,1500,78364,English,"Bachelor, Master, PhD",Very High
+Ludwig-Maximilians-Universität München,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Universiti Malaya (UM),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Duke University,US,60432,1500,1500,79932,English,"Bachelor, Master, PhD",Very High
+City University of Hong Kong,HK,18000,2000,600,42600,"English, Chinese","Bachelor, Master, PhD",Medium
+KU Leuven,BE,4200,800,500,14300,"French, Dutch, English","Bachelor, Master, PhD",Low
+Sorbonne University,FR,2770,900,300,13870,"French, English","Bachelor, Master, PhD",Low
+The University of Auckland,NZ,22000,900,400,33200,English,"Bachelor, Master, PhD",High
+University of Texas at Austin,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Korea University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+National Taiwan University (NTU),TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+The University of Warwick,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Illinois at Urbana-Champaign,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Universidad de Buenos Aires (UBA),AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+"University of California, San Diego (UCSD)",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Université Paris-Saclay,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+KTH Royal Institute of Technology,SE,13000,900,300,24100,"Swedish, English","Bachelor, Master, PhD",Medium
+Lund University,SE,13000,900,300,24100,"Swedish, English","Bachelor, Master, PhD",Medium
+University of Washington,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+The University of Western Australia,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+University of Glasgow,UK,19000,1200,600,34000,English,"Bachelor, Master, PhD",Medium
+Brown University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Birmingham,UK,19000,1200,600,34000,English,"Bachelor, Master, PhD",Medium
+University of Southampton,UK,19000,1200,600,34000,English,"Bachelor, Master, PhD",Medium
+The University of Adelaide,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+University of Leeds,UK,19000,1200,600,34000,English,"Bachelor, Master, PhD",Medium
+Ruprecht-Karls-Universität Heidelberg,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Tokyo Institute of Technology (Tokyo Tech),JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Osaka University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+"Trinity College Dublin, The University of Dublin",IE,15000,1300,500,31100,English,"Bachelor, Master",Medium
+University of Technology Sydney,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Durham University,UK,20000,1200,600,35000,English,"Bachelor, Master, PhD",High
+Pennsylvania State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Purdue University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Universidade de São Paulo,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Pontificia Universidad Católica de Chile (UC),CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Lomonosov Moscow State University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Universidad Nacional Autónoma de México (UNAM),MX,1000,400,500,6300,Spanish,"Bachelor, Master",Low
+University of Alberta,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Freie Universitaet Berlin,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Pohang University of Science And Technology (POSTECH),KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+RWTH Aachen University,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+University of Copenhagen,DK,13000,1000,500,25500,"Danish, English","Bachelor, Master, PhD",Medium
+King Fahd University of Petroleum & Minerals,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+"KIT, Karlsruhe Institute of Technology",DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Uppsala University,SE,13000,900,300,24100,"Swedish, English","Bachelor, Master, PhD",Medium
+University of St Andrews,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+The University of Sheffield,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Utrecht University,NL,12000,1000,400,24400,"Dutch, English","Bachelor, Master, PhD",Medium
+Tohoku University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+University of Nottingham,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Technical University of Denmark,DK,13000,1000,500,25500,"Danish, English","Bachelor, Master, PhD",Medium
+University of Zurich,CH,1500,1600,600,21300,"German, French, English","Bachelor, Master, PhD",Low
+Politecnico di Milano,IT,3500,700,500,12400,"Italian, English","Bachelor, Master",Low
+Boston University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Aalto University,FI,12000,800,500,22100,"Finnish, English","Bachelor, Master, PhD",Medium
+Georgia Institute of Technology,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Waterloo,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+University of Wisconsin-Madison,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Helsinki,FI,12000,800,500,22100,"Finnish, English","Bachelor, Master, PhD",Medium
+Indian Institute of Technology Bombay (IITB),IN,2500,300,500,6600,"English, Hindi","Bachelor, Master",Low
+University of Oslo,NO,0,1100,500,13700,"Norwegian, English","Bachelor, Master, PhD",Low
+Queen Mary University of London,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Western University,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Qatar University,QA,15000,1200,500,29900,"Arabic, English","Bachelor, Master",Medium
+RMIT University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Sungkyunkwan University(SKKU),KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+University of Southern California,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Humboldt-Universität zu Berlin,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+University College Dublin,IE,15000,1300,500,31100,English,"Bachelor, Master",Medium
+Stockholm University,SE,13000,900,300,24100,"Swedish, English","Bachelor, Master, PhD",Medium
+Newcastle University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+"University of California, Davis",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Basel,CH,1500,1600,600,21300,"German, French, English","Bachelor, Master, PhD",Low
+Sapienza University of Rome,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Alma Mater Studiorum - University of Bologna,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Macquarie University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Nanjing University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Eindhoven University of Technology,NL,16000,1000,400,28400,"Dutch, English","Bachelor, Master, PhD",Medium
+University of Vienna,AT,1500,900,500,12800,"German, English","Bachelor, Master",Low
+Universiti Kebangsaan Malaysia (UKM),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Chalmers University of Technology,SE,13000,900,300,24100,"Swedish, English","Bachelor, Master, PhD",Medium
+Universidad de Chile,CL,5000,500,500,11500,Spanish,"Bachelor, Master",Medium
+Lancaster University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Leiden University,NL,12000,1000,400,24400,"Dutch, English","Bachelor, Master, PhD",Medium
+Rice University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Aarhus University,DK,13000,1000,500,25500,"Danish, English","Bachelor, Master, PhD",Medium
+University of Science and Technology of China,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Universiti Sains Malaysia (USM),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Technische Universität Berlin (TU Berlin),DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Universiti Putra Malaysia (UPM),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+King Abdulaziz University (KAU),SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Indian Institute of Technology Delhi (IITD),IN,2500,300,500,6600,"English, Hindi","Bachelor, Master",Low
+University of Bath,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Michigan State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Nagoya University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Texas A&M University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Geneva,CH,1500,1600,600,21300,"German, French, English","Bachelor, Master, PhD",Low
+"University of North Carolina, Chapel Hill",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Wageningen University & Research,NL,12000,1000,400,24400,"Dutch, English","Bachelor, Master, PhD",Medium
+Erasmus University Rotterdam,NL,12000,1000,400,24400,"Dutch, English","Bachelor, Master, PhD",Medium
+Université de Montréal,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+University of Groningen,NL,12000,1000,400,24400,"Dutch, English","Bachelor, Master, PhD",Medium
+University of Bern,CH,1500,1600,600,21300,"German, French, English","Bachelor, Master, PhD",Low
+Hanyang University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Al-Farabi Kazakh National University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Complutense University of Madrid,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Universitat de Barcelona,ES,3200,700,500,12100,"Spanish, English","Bachelor, Master",Low
+University of Liverpool,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Kyushu University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+University of Wollongong,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Ghent University,BE,1000,800,500,11100,"French, Dutch, English","Bachelor, Master, PhD",Low
+The University of Exeter,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Cape Town,ZA,5500,400,500,10800,"English, Afrikaans","Bachelor, Master",Medium
+University of Reading,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Hokkaido University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Curtin University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Universitat Autònoma de Barcelona,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+McMaster University,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Washington University in St. Louis,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+"University of California, Santa Barbara (UCSB)",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+"The University of Newcastle, Australia (UON)",AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Universidad de los Andes,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universiti Teknologi Malaysia,MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Waseda University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Hamad Bin Khalifa University,QA,15000,1200,500,29900,"Arabic, English","Bachelor, Master",Medium
+University of York,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Tecnológico de Monterrey,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Cardiff University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+École Normale Supérieure de Lyon,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Keio University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+University of Ottawa,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Technische Universität Wien,AT,1500,900,500,12800,"German, English","Bachelor, Master",Low
+Universität Hamburg,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Wuhan University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Queen's University at Kingston,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+University of Gothenburg,SE,13000,900,300,24100,"Swedish, English","Bachelor, Master, PhD",Medium
+Beijing Normal University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Emory University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Deakin University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Universidad Autónoma de Madrid,ES,3200,700,500,12100,"Spanish, English","Bachelor, Master",Low
+University of Calgary,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Arizona State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+King Saud University,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Khalifa University of Science and Technology,AE,20000,1500,500,38500,"Arabic, English","Bachelor, Master",High
+Université catholique de Louvain (UCLouvain),BE,4500,800,500,14600,"French, Dutch, English","Bachelor, Master, PhD",Low
+University of Minnesota Twin Cities,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Ecole des Ponts ParisTech,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Queen's University Belfast,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Universitas Indonesia,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+The Ohio State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Tel Aviv University,IL,11000,1200,500,25900,"Hebrew, English","Bachelor, Master",Medium
+National Tsing Hua University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Indian Institute of Science,IN,2000,300,500,6100,"English, Hindi","Bachelor, Master",Low
+Albert-Ludwigs-Universitaet Freiburg,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Queensland University of Technology (QUT),AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+University of Otago,NZ,22000,900,400,33200,English,"Bachelor, Master, PhD",High
+National Cheng Kung University (NCKU),TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+University of Florida,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+La Trobe University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+"University of Maryland, College Park",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+National Yang Ming Chiao Tung University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Universidad Nacional de Colombia,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Vrije Universiteit Amsterdam,NL,12000,1000,400,24400,"Dutch, English","Bachelor, Master, PhD",Medium
+Eberhard Karls Universität Tübingen,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Indian Institute of Technology Kharagpur (IIT-KGP),IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Friedrich-Alexander-Universität Erlangen-Nürnberg,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Loughborough University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Lausanne,CH,1500,1600,600,21300,"German, French, English","Bachelor, Master, PhD",Low
+Indian Institute of Technology Madras (IITM),IN,2500,300,500,6600,"English, Hindi","Bachelor, Master",Low
+Rheinische Friedrich-Wilhelms-Universität Bonn,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Chulalongkorn University,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+Maastricht University,NL,12000,1000,400,24400,"Dutch, English","Bachelor, Master, PhD",Medium
+Universite libre de Bruxelles,BE,4500,800,500,14600,"French, Dutch, English","Bachelor, Master, PhD",Low
+Universidade Estadual de Campinas (Unicamp),BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+University of Twente,NL,12000,1000,400,24400,"Dutch, English","Bachelor, Master, PhD",Medium
+Technische Universität Dresden,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+University of Waikato,NZ,22000,900,400,33200,English,"Bachelor, Master, PhD",High
+Università di Padova,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Aberdeen,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Rochester,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Gadjah Mada University,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Massey University,NZ,22000,900,400,33200,English,"Bachelor, Master, PhD",High
+Politecnico di Torino,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Technical University of Darmstadt,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Dartmouth College,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Victoria University of Wellington,NZ,22000,900,400,33200,English,"Bachelor, Master, PhD",High
+University of Macau,MO,5000,600,500,12700,"Chinese, English","Bachelor, Master",Medium
+Charles University,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+University of Sussex,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Vanderbilt University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Navarra,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+American University of Beirut (AUB),LB,8000,600,500,15700,"Arabic, French, English","Bachelor, Master",Medium
+Taylor's University,MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Tongji University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Hong Kong Baptist University,HK,18000,2000,600,42600,"English, Chinese","Bachelor, Master, PhD",Medium
+University of Göttingen,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Griffith University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Bandung Institute of Technology (ITB),ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Heriot-Watt University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Warsaw,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+Case Western Reserve University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Lisbon,PT,3000,600,500,10700,"Portuguese, English","Bachelor, Master",Low
+United Arab Emirates University,AE,20000,1500,500,38500,"Arabic, English","Bachelor, Master",High
+University of Canterbury | Te Whare W?nanga o Waitaha,NZ,22000,900,400,33200,English,"Bachelor, Master, PhD",High
+Indian Institute of Technology Kanpur (IITK),IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Norwegian University of Science And Technology,NO,0,1100,500,13700,"Norwegian, English","Bachelor, Master, PhD",Low
+UCSI University,MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Universitat Pompeu Fabra (Barcelona),ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+University of Antwerp,BE,4500,800,500,14600,"French, Dutch, English","Bachelor, Master, PhD",Low
+University of Witwatersrand,ZA,6000,400,500,11300,"English, Afrikaans","Bachelor, Master",Medium
+Sun Yat-sen University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Universiti Teknologi PETRONAS (UTP),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Harbin Institute of Technology,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Radboud University,NL,12000,1000,400,24400,"Dutch, English","Bachelor, Master, PhD",Medium
+University College Cork,IE,15000,1300,500,31100,English,"Bachelor, Master",Medium
+University of Galway,IE,15000,1300,500,31100,English,"Bachelor, Master",Medium
+Dalhousie University,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+University of Massachusetts Amherst,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Pittsburgh,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Porto,PT,3000,600,500,10700,"Portuguese, English","Bachelor, Master",Low
+Vrije Universiteit Brussel (VUB),BE,4200,800,500,14300,"French, Dutch, English","Bachelor, Master, PhD",Low
+Ulsan National Institute of Science and Technology (UNIST),KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+The Hebrew University of Jerusalem,IL,12000,1200,500,26900,"Hebrew, English","Bachelor, Master",Medium
+University of Strathclyde,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Université Paris 1 Panthéon-Sorbonne,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Xiamen University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Middle East Technical University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Universidad Carlos III de Madrid (UC3M),ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+University of Cologne,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+University of Leicester,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Milan,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Surrey,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Swinburne University of Technology,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+University of Bergen,NO,0,1100,500,13700,"Norwegian, English","Bachelor, Master, PhD",Low
+The University of Arizona,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Tasmania,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Beijing Institute of Technology,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Stellenbosch University,ZA,6000,400,500,11300,"English, Afrikaans","Bachelor, Master",Medium
+University of Virginia,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Bauman Moscow State Technical University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Swansea University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Huazhong University of Science and Technology,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Georgetown University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Sichuan University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Université Paris Cité,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Linköping University,SE,13000,900,300,24100,"Swedish, English","Bachelor, Master, PhD",Medium
+Universidade Federal do Rio de Janeiro,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Aalborg University,DK,13000,1000,500,25500,"Danish, English","Bachelor, Master, PhD",Medium
+"University of California, Irvine",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Airlangga University,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Goethe-University Frankfurt am Main,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Universität Innsbruck,AT,1500,900,500,12800,"German, English","Bachelor, Master",Low
+North Carolina State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Jagiellonian University,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+University of Johannesburg,ZA,6000,400,500,11300,"English, Afrikaans","Bachelor, Master",Medium
+Universität Stuttgart,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Quaid-i-Azam University,PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+RUDN University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Shanghai University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+University of Notre Dame,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Simon Fraser University,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+University of Colorado Boulder,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+L.N. Gumilyov Eurasian National University (ENU),KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+National Technical University of Athens,GR,1500,500,500,8000,"Greek, English","Bachelor, Master",Low
+Universidad Politécnica de Madrid (UPM),ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+University of Miami,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Southern Denmark (SDU),DK,13000,1000,500,25500,"Danish, English","Bachelor, Master, PhD",Medium
+Daegu Gyeongbuk Institute of Science and Technology (DGIST),KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Istanbul Technical University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Kyung Hee University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Rutgers University–New Brunswick,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Delhi,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Renmin (People's) University of China,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+American University of Sharjah,AE,20000,1500,500,38500,"Arabic, English","Bachelor, Master",High
+University of East Anglia (UEA),UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Université Grenoble Alpes,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Indian Institute of Technology Roorkee (IITR),IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Flinders University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Lappeenranta-Lahti University of Technology LUT,FI,12000,800,500,22100,"Finnish, English","Bachelor, Master, PhD",Medium
+Xi’an Jiaotong University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+University of the Philippines,PH,3000,350,500,7700,"English, Filipino","Bachelor, Master",Low
+University of Saskatchewan,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+University of South Australia,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Brunel University London,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Sharif University of Technology,IR,2000,300,500,6100,Persian,"Bachelor, Master",Low
+Indian Institute of Technology Guwahati (IITG),IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Tufts University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Oulu,FI,12000,800,500,22100,"Finnish, English","Bachelor, Master, PhD",Medium
+Tilburg University,NL,12000,1000,400,24400,"Dutch, English","Bachelor, Master, PhD",Medium
+University of Naples - Federico II,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Victoria (UVic),CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Cairo University,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Sciences Po,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+"City, University of London",UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+National University of Sciences And Technology (NUST) Islamabad,PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+University of Pretoria,ZA,6000,400,500,11300,"English, Afrikaans","Bachelor, Master",Medium
+Indiana University Bloomington,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Coimbra,PT,3000,600,500,10700,"Portuguese, English","Bachelor, Master",Low
+University of Luxembourg,LU,1000,1200,500,15900,"French, German, English","Bachelor, Master",Low
+University of Tartu,EE,4000,500,500,10500,"Estonian, English","Bachelor, Master",Low
+Gwangju Institute of Science and Technology (GIST),KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Pontificia Universidad Católica del Perú,PE,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+University of Aveiro,PT,3000,600,500,10700,"Portuguese, English","Bachelor, Master",Low
+Sultan Qaboos University,OM,8000,700,500,16900,"Arabic, English","Bachelor, Master",Medium
+Nankai University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+York University,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Saint Petersburg State University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+University of Illinois at Chicago (UIC),US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Westfälische Wilhelms-Universität Münster,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Mahidol University,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+University of Jordan,JO,5000,500,500,11500,"Arabic, English","Bachelor, Master",Medium
+University of Tehran,IR,2000,300,500,6100,Persian,"Bachelor, Master",Low
+George Washington University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Lincoln University,NZ,22000,900,400,33200,English,"Bachelor, Master, PhD",High
+Universitat Politècnica de Catalunya · BarcelonaTech (UPC),ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+University of Turin,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Florence,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Turku,FI,12000,800,500,22100,"Finnish, English","Bachelor, Master, PhD",Medium
+Tianjin University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Pontificia Universidad Javeriana,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+University of Tsukuba,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Technische Universität Bergakademie Freiberg,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+University of Kent,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Pisa,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Anna University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Western Sydney University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Shandong University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Universiti Brunei Darussalam (UBD),BN,3000,600,500,10700,"Malay, English","Bachelor, Master",Low
+Belarusian State University,BY,2500,300,500,6600,"Russian, Belarusian","Bachelor, Master",Low
+Universidade Nova de Lisboa,PT,3000,600,500,10700,"Portuguese, English","Bachelor, Master",Low
+Università Vita-Salute San Raffaele,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Cyprus (UCY),CY,6000,600,500,13700,"Greek, English","Bachelor, Master",Medium
+Virginia Polytechnic Institute and State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+National Taiwan University of Science and Technology (Taiwan Tech),TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+National and Kapodistrian University of Athens,GR,1500,500,500,8000,"Greek, English","Bachelor, Master",Low
+"University of California, Santa Cruz",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+"University of Rome ""Tor Vergata""",IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Northeastern University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Ruhr-Universität Bochum,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Sejong University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Université de Liège,BE,4500,800,500,14600,"French, Dutch, English","Bachelor, Master, PhD",Low
+University of Southern Queensland,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Kazan (Volga region) Federal University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Koç University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Amirkabir University of Technology,IR,2000,300,500,6100,Persian,"Bachelor, Master",Low
+University of Canberra,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Institut National des Sciences Appliquées de Lyon (INSA),FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Satbayev University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+USI - Università della Svizzera italiana,CH,1500,1600,600,21300,"German, French, English","Bachelor, Master, PhD",Low
+"Birkbeck, University of London",UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Masaryk University,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+HSE University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+The American University in Cairo,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Auckland University of Technology (AUT),NZ,22000,900,400,33200,English,"Bachelor, Master, PhD",High
+Graz University of Technology,AT,1500,900,500,12800,"German, English","Bachelor, Master",Low
+Yeshiva University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Concordia University,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Oxford Brookes University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Technion - Israel Institute of Technology,IL,11000,1200,500,25900,"Hebrew, English","Bachelor, Master",Medium
+University of Dundee,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Bo?aziçi University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Czech Technical University in Prague,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+Dublin City University,IE,15000,1300,500,31100,English,"Bachelor, Master",Medium
+University of Limerick,IE,15000,1300,500,31100,English,"Bachelor, Master",Medium
+Aston University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Université Laval,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+National Taipei University of Technology,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+IPB University (a.k.a. Bogor Agricultural University),ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Leibniz University Hannover,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Julius-Maximilians-Universität Würzburg,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Central South University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+University of Science and Technology Beijing,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+University of Electronic Science and Technology of China,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Tomsk State University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+University of Granada,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+University of Sharjah,AE,20000,1500,500,38500,"Arabic, English","Bachelor, Master",High
+IE University,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Iran University of Science and Technology,IR,2000,300,500,6100,Persian,"Bachelor, Master",Low
+Murdoch University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Universitat Politècnica de València,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Vilnius University,LT,3000,400,500,8300,"Lithuanian, English","Bachelor, Master",Low
+Singapore University of Technology and Design,SG,18000,1800,600,40200,"English, Chinese","Bachelor, Master, PhD",Medium
+Università degli Studi di Pavia,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Colorado State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Novosibirsk State University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Università Cattolica del Sacro Cuore,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+James Cook University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Justus-Liebig-University Giessen,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Universitat de Valencia,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Southern University of Science and Technology,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+South China University of Technology,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Université de Montpellier,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Hunan University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Nanjing University of Science and Technology,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+National Taiwan Normal University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+University of Kansas,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Stirling,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Umea University,SE,13000,900,300,24100,"Swedish, English","Bachelor, Master, PhD",Medium
+Université de Strasbourg,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+University of Guelph,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+"Stony Brook University, State University of New York",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Universidad de Santiago de Chile (USACH),CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Tampere University,FI,12000,800,500,22100,"Finnish, English","Bachelor, Master, PhD",Medium
+Universidad de Sevilla,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Macau University of Science and Technology,MO,5000,600,500,12700,"Chinese, English","Bachelor, Master",Medium
+Kobe University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Universität Konstanz,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Universitat Ramon Llull,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+University at Buffalo SUNY,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Washington State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Iowa State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Ben-Gurion University of The Negev,IL,12000,1200,500,26900,"Hebrew, English","Bachelor, Master",Medium
+"Essex, University of",UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Johannes Kepler University Linz,AT,1500,900,500,12800,"German, English","Bachelor, Master",Low
+Bangor University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Hiroshima University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Universität Potsdam,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Ajman University,AE,20000,1500,500,38500,"Arabic, English","Bachelor, Master",High
+Bilkent University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Indian Institute of Technology Indore (IIT Indore),IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Royal Holloway University of London,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Aix-Marseille University,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Pontificia Universidad Católica Argentina,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+"The University of Tennessee, Knoxville",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+China Agricultural University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+American University of Ras Al Khaimah ( AURAK ),AE,20000,1500,500,38500,"Arabic, English","Bachelor, Master",High
+National Sun Yat-sen University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Universität Mannheim,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+University of Hawai?i at M?noa,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Dalian University of Technology,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Chung-Ang University (CAU),KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Isfahan University of Technology,IR,2000,300,500,6100,Persian,"Bachelor, Master",Low
+Southeast University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+UNESP,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+University of Jyväskylä,FI,12000,800,500,22100,"Finnish, English","Bachelor, Master, PhD",Medium
+Central Queensland University (CQUniversity Australia),AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Duy Tan University,VN,3000,300,500,7100,"Vietnamese, English","Bachelor, Master",Low
+Chongqing University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Universidad de Costa Rica,CR,3000,600,500,10700,Spanish,"Bachelor, Master",Low
+"University of California, Riverside",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Abu Dhabi University,AE,20000,1500,500,38500,"Arabic, English","Bachelor, Master",High
+Colorado School of Mines,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Zhengzhou University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Johannes Gutenberg Universität Mainz,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+University of Huddersfield,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Delaware,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Trento,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Aristotle University of Thessaloniki,GR,1500,500,500,8000,"Greek, English","Bachelor, Master",Low
+China University of Petroleum,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+SOAS University of London,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Ewha Womans University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Beihang University (former BUAA),CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Imam Abdulrahman Bin Faisal University (IAU) (formerly UNIVERSITY OF DAMMAM),SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Prince Mohammad Bin Fahd university,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+University of Milano-Bicocca,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Ateneo de Manila University,PH,3000,350,500,7700,"English, Filipino","Bachelor, Master",Low
+Edith Cowan University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+INTI International University,MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Kyungpook National University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Sabanci University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+University of Hull,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Ural Federal University - UrFU,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Canadian University Dubai,AE,20000,1500,500,38500,"Arabic, English","Bachelor, Master",High
+Pusan National University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Universidad Austral,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universität Jena,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Missouri University of Science and Technology,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Universität Leipzig,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+University of Bayreuth,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Warsaw University of Technology,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+Coventry University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Indian Institute of Technology (BHU) Varanasi,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+University of Utah,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Universidad Nacional de La Plata (UNLP),AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Lahore University of Management Sciences (LUMS),PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+Northumbria University at Newcastle,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Bordeaux,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+University of Eastern Finland,FI,12000,800,500,22100,"Finnish, English","Bachelor, Master, PhD",Medium
+Applied Science University - Bahrain,BH,8000,800,500,18100,"Arabic, English","Bachelor, Master",Medium
+Hitotsubashi University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Sunway University,MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Université de Fribourg,CH,1500,1600,600,21300,"German, French, English","Bachelor, Master, PhD",Low
+University of Salamanca,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Universidad de Zaragoza,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Universidad Pontificia Comillas,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+University of Bradford,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+East China University of Science and Technology,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU),UZ,2000,600,500,9700,"Uzbek, Russian","Bachelor, Master",Low
+University of Genoa,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Iceland,IS,1000,600,500,8700,English,"Bachelor, Master",Low
+University of Windsor,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Al Ain University,AE,20000,1500,500,38500,"Arabic, English","Bachelor, Master",High
+University of Tabriz,IR,2000,300,500,6100,Persian,"Bachelor, Master",Low
+Hasselt University,BE,4500,800,500,14600,"French, Dutch, English","Bachelor, Master, PhD",Low
+Jordan University of Science & Technology,JO,5000,500,500,11500,"Arabic, English","Bachelor, Master",Medium
+Universiti Utara Malaysia (UUM),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+University of Dhaka,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+University Ulm,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Peter the Great St. Petersburg Polytechnic University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Ulster University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Umm Al-Qura University,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Université Claude Bernard Lyon 1,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Universiti Teknologi Brunei,BN,3000,600,500,10700,"Malay, English","Bachelor, Master",Low
+Eötvös Loránd University,HU,5000,500,500,11500,"Hungarian, English","Bachelor, Master",Medium
+China University of Mining and Technology,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+University of Connecticut,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Chiang Mai University,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+Lebanese University,LB,8000,600,500,15700,"Arabic, French, English","Bachelor, Master",Medium
+MGIMO University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+"University of Chemistry and Technology, Prague",CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+University of Szeged,HU,5000,500,500,11500,"Hungarian, English","Bachelor, Master",Medium
+University of the Punjab,PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+Florida State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Florida International University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Debrecen,HU,5000,500,500,11500,"Hungarian, English","Bachelor, Master",Medium
+National Research Tomsk Polytechnic University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Sogang University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Southern Cross University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Universidad Adolfo Ibáñez,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Jawaharlal Nehru University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Nanjing Agricultural University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Management and Science University,MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Politecnico di Bari,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Université Paul Sabatier Toulouse III,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Institut Teknologi Sepuluh Nopember (ITS Surabaya),ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Singapore Management University,SG,18000,1800,600,40200,"English, Chinese","Bachelor, Master, PhD",Medium
+Bond University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Shoolini University of Biotechnology and Management Sciences,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+The University of Georgia,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Universiti Teknologi MARA - UiTM,MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+University of Kwazulu-Natal,ZA,6000,400,500,11300,"English, Afrikaans","Bachelor, Master",Medium
+Ain Shams University,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Nottingham Trent University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Universität Bremen,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+ITMO University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Thammasat University,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+Universitas Padjadjaran,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+University of Iowa,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Ljubljana,SI,2000,600,500,9700,"Slovenian, English","Bachelor, Master",Low
+University of Texas Dallas,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Ca' Foscari University of Venice,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Illinois Institute of Technology,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+King Khalid University,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+"Kingston University, London",UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Manchester Metropolitan University (MMU),UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+National Chengchi University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Paris Lodron University of Salzburg,AT,1500,900,500,12800,"German, English","Bachelor, Master",Low
+Rensselaer Polytechnic Institute,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Universität des Saarlandes,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+University of Crete,GR,1500,500,500,8000,"Greek, English","Bachelor, Master",Low
+University of Hohenheim,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+University of South Carolina,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+American University of the Middle East,KW,5000,900,500,16300,"Arabic, English","Bachelor, Master",Medium
+Asia Pacific University of Technology and Innovation (APU),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Brno University of Technology,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+Christian-Albrechts-University zu Kiel,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Eastern Mediterranean University,NCY,5000,600,500,12700,Turkish,"Bachelor, Master",Medium
+Pontifícia Universidade Católica do Rio de Janeiro,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Taipei Medical University (TMU),TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+University of Klagenfurt,AT,1500,900,500,12800,"German, English","Bachelor, Master",Low
+University of Minho,PT,3000,600,500,10700,"Portuguese, English","Bachelor, Master",Low
+Abo Akademi University,FI,12000,800,500,22100,"Finnish, English","Bachelor, Master, PhD",Medium
+American University in Dubai,AE,20000,1500,500,38500,"Arabic, English","Bachelor, Master",High
+Auezov South Kazakhstan University (SKU),KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Charles Darwin University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Istanbul University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Beijing University of Chemical Technology,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Tallinn University of Technology (TalTech),EE,4000,500,500,10500,"Estonian, English","Bachelor, Master",Low
+Universidad de Alcalá,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Universidad de Palermo (UP),AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+University of South Florida,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Tromsø The Arctic University of Norway,NO,0,1100,500,13700,"Norwegian, English","Bachelor, Master, PhD",Low
+Zayed University,AE,20000,1500,500,38500,"Arabic, English","Bachelor, Master",High
+Ajou University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Boston College,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Chang Gung University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Shenzhen University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Far Eastern Federal University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Inha University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Savitribai Phule Pune University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Tulane University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Universidad de Concepción,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+University of Portsmouth,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Beirut Arab University,LB,8000,600,500,15700,"Arabic, French, English","Bachelor, Master",Medium
+De La Salle University,PH,3000,350,500,7700,"English, Filipino","Bachelor, Master",Low
+Northwestern Polytechnical University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Hacettepe University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Lehigh University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+National Central University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Oregon State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Ritsumeikan University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+East China Normal University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Symbiosis International (Deemed University),IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Universiti Tenaga Nasional (UNITEN),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+"University of Missouri, Columbia",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of the Basque Country,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+HUFS - Hankuk (Korea) University of Foreign Studies,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Palacký University Olomouc,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+Universidade de Santiago de Compostela,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+University of Houston,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Zagreb,HR,2000,500,500,8500,"Croatian, English","Bachelor, Master",Low
+Aberystwyth University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+City University of New York,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Comenius University Bratislava,SK,2000,500,500,8500,"Slovak, English","Bachelor, Master",Low
+Free University of Bozen-Bolzano,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+International Islamic University Malaysia (IIUM),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+ISCTE - Instituto Universitario de Lisboa,PT,3000,600,500,10700,"Portuguese, English","Bachelor, Master",Low
+Memorial University of Newfoundland,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+National Chung Hsing University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+"Sofia University ""St. Kliment Ohridski""",BG,3000,350,500,7700,"Bulgarian, English","Bachelor, Master",Low
+Tokyo Medical and Dental University (TMDU),JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Universidad de la República (Udelar),UY,2000,500,500,8500,Spanish,"Bachelor, Master",Low
+University of Manitoba,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+University of Plymouth,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Abai Kazakh National Pedagogical University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Bar-Ilan University,IL,12000,1200,500,26900,"Hebrew, English","Bachelor, Master",Medium
+Karl-Franzens-Universitaet Graz,AT,1500,900,500,12800,"German, English","Bachelor, Master",Low
+Kazakh National Agrarian University KazNAU,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Martin-Luther-Universität Halle-Wittenberg,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Universidade Federal de Minas Gerais,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+University of Haifa,IL,12000,1200,500,26900,"Hebrew, English","Bachelor, Master",Medium
+Soochow University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+"Goldsmiths, University of London",UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Indian Institute of Technology Hyderabad,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Jeonbuk National University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Prince Sultan University,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Princess Nourah bint Abdulrahman University,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Temple University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+"University of Agriculture, Faisalabad",PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+University of New Brunswick,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Chandigarh University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Norwegian University of Life Sciences (UMB),NO,0,1100,500,13700,"Norwegian, English","Bachelor, Master, PhD",Low
+Pakistan Institute of Engineering and Applied Sciences (PIEAS),PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+Shiraz University,IR,2000,300,500,6100,Persian,"Bachelor, Master",Low
+Universidad Central de Venezuela,VE,1000,600,500,8700,Spanish,"Bachelor, Master",Low
+Universidad de La Habana,CU,1000,600,500,8700,Spanish,"Bachelor, Master",Low
+Universidad Panamericana (UP),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidade Federal de São Paulo,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal do Rio Grande Do Sul,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+University of Brescia,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Greenwich,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Siena,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Huazhong Agricultural University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Dongguk University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Lebanese American University,LB,8000,600,500,15700,"Arabic, French, English","Bachelor, Master",Medium
+National Institute of Technology Tiruchirappalli,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Stevens Institute of Technology,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Taras Shevchenko National University of Kyiv,UA,3000,300,500,7100,"Ukrainian, English","Bachelor, Master",Low
+University of Nebraska - Lincoln,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Oklahoma,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Ahlia University,BH,8000,800,500,18100,"Arabic, English","Bachelor, Master",Medium
+American University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+COMSATS University Islamabad,PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+Czech University of Life Sciences in Prague,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+De Montfort University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+"Lingnan University, Hong Kong",HK,18000,2000,600,42600,"English, Chinese","Bachelor, Master, PhD",Medium
+Nanjing University of Aeronautics and Astronautics,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Plekhanov Russian University of Economics,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Saint Joseph University of Beirut (USJ),LB,8000,600,500,15700,"Arabic, French, English","Bachelor, Master",Medium
+The National University of Science and Technology MISIS,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Ton Duc Thang University,VN,3000,300,500,7100,"Vietnamese, English","Bachelor, Master",Low
+Université de Franche-Comté,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+University of Mumbai,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Brandeis University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Budapest University of Technology and Economics,HU,5000,500,500,11500,"Hungarian, English","Bachelor, Master",Medium
+Diponegoro University,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Drexel University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Effat University,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Jadavpur University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Konkuk University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Jinan University (China),CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Middlesex University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Riga Technical University,LV,3000,400,500,8300,"Latvian, English","Bachelor, Master",Low
+Université de Lille,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Université de Rennes 1 (University of Rennes),FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+University of Modena and Reggio Emilia,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Trieste,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Universitat Rovira i Virgili,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Université Côte d\'Azur,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+University of Belgrade,RS,2000,400,500,7300,"Serbian, English","Bachelor, Master",Low
+Altai State University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Carleton University,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Universidad Católica Andres Bello,VE,1000,600,500,8700,Spanish,"Bachelor, Master",Low
+Universidad de Montevideo (UM),UY,2000,500,500,8500,Spanish,"Bachelor, Master",Low
+Universität Regensburg,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Universiti Malaysia Pahang,MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+University of Central Florida,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of the West of England,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Westminster,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+V. N. Karazin Kharkiv National University,UA,3000,300,500,7100,"Ukrainian, English","Bachelor, Master",Low
+Victoria University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Vytautas Magnus University,LT,3000,400,500,8300,"Lithuanian, English","Bachelor, Master",Low
+Wake Forest University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Instituto Tecnológico Autónomo de México (ITAM),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Kaunas University of Technology,LT,3000,400,500,8300,"Lithuanian, English","Bachelor, Master",Low
+Technische Universität Braunschweig,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Tokyo University of Science,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Universidade de Brasília,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universita' Politecnica delle Marche,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Calcutta,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+University of Engineering & Technology (UET) Lahore,PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+University of Malta,MT,3000,600,500,10700,"English, Maltese","Bachelor, Master",Low
+University of Messina (UniME),IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+"Adam Mickiewicz University, Pozna?",PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+Bangladesh University of Engineering and Technology,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+King Faisal University,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Ocean University of China,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+University of Cincinnati,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+"University of Colorado, Denver",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Patras,GR,1500,500,500,8000,"Greek, English","Bachelor, Master",Low
+Addis Ababa University,ET,1500,200,500,4400,"Amharic, English","Bachelor, Master",Low
+Bournemouth University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Chiba University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Beijing University of Posts and Telecommunications,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Colegio de México,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Holy Spirit University of Kaslik,LB,8000,600,500,15700,"Arabic, French, English","Bachelor, Master",Medium
+Universidad del Rosario,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Université de Tunis El Manar,TN,2000,300,500,6100,"Arabic, French","Bachelor, Master",Low
+"University of Maryland, Baltimore County",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Pecs,HU,5000,500,500,11500,"Hungarian, English","Bachelor, Master",Medium
+Verona University,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Babes-Bolyai University,RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+Kasetsart University,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+National University of Uzbekistan,UZ,2000,600,500,9700,"Uzbek, Russian","Bachelor, Master",Low
+Qassim University,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Texas Tech University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+The New School,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Universidad de Belgrano,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidade Federal de Santa Catarina,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+University of Latvia,LV,3000,400,500,8300,"Latvian, English","Bachelor, Master",Low
+University of Mons,BE,4500,800,500,14600,"French, Dutch, English","Bachelor, Master, PhD",Low
+Zurich University of Applied Sciences (ZHAW),CH,1500,1600,600,21300,"German, French, English","Bachelor, Master, PhD",Low
+Alfaisal University,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Ivane Javakhishvili Tbilisi State University,GE,3000,600,500,10700,"Georgian, English","Bachelor, Master",Low
+Keele University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+New Jersey Institute of Technology (NJIT),US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Sechenov University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Universidad de Antioquia,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+University of Kentucky,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of New Mexico,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Vellore Institute of Technology (VIT),IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Wayne State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Al-Ahliyya Amman University,JO,5000,500,500,11500,"Arabic, English","Bachelor, Master",Medium
+Alexandria University,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Ankara Üniversitesi,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Asia University Taiwan,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Donghua University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Belarusian National Technical University (BNTU),BY,2500,300,500,6600,"Russian, Belarusian","Bachelor, Master",Low
+"Birla Institute of Technology and Science, Pilani",IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Edinburgh Napier University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Gda?sk University of Technology,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+Wuhan University of Technology,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Immanuel Kant Baltic Federal University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Instituto Politécnico Nacional (IPN),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Jouf University,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Khoja Akhmet Yassawi International Kazakh-Turkish University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Kuwait University,KW,5000,900,500,16300,"Arabic, English","Bachelor, Master",Medium
+Liverpool John Moores University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+London South Bank University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Maynooth University,IE,15000,1300,500,31100,English,"Bachelor, Master",Medium
+"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",UA,3000,300,500,7100,"Ukrainian, English","Bachelor, Master",Low
+Lanzhou University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Philipps-Universität Marburg,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Pontificia Universidad Católica de Valparaíso,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Rutgers University–Newark,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Syracuse University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+The Catholic University of Korea,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Toronto Metropolitan University,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+TU Dortmund University,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Universidad Anáhuac México,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Iberoamericana IBERO,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad San Francisco de Quito (USFQ),EC,3000,350,500,7700,Spanish,"Bachelor, Master",Low
+Università degli Studi di Perugia,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Universitas Brawijaya,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Universität Duisburg-Essen,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Universität Rostock,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Université de Lorraine,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Universiti Tunku Abdul Rahman (UTAR),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+University of Alaska Fairbanks,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Alicante,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+University of Baghdad,IQ,2000,300,500,6100,Arabic,"Bachelor, Master",Low
+University of Bari,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Brighton,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Bucharest,RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+University of Hyderabad,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+University of Oregon,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Petroleum and Energy Studies (UPES),IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+University of Salerno,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Stavanger,NO,0,1100,500,13700,"Norwegian, English","Bachelor, Master, PhD",Low
+University of Ulsan,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Northwest Agriculture and Forestry University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+AGH University of Science and Technology,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+Al-Quds University,PS,2000,600,500,9700,Arabic,"Bachelor, Master",Low
+Applied Science Private University - Jordan,JO,5000,500,500,11500,"Arabic, English","Bachelor, Master",Medium
+Charles Sturt University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Chonnam National University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Chungnam National University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Clarkson University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+CY Cergy Paris University,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Beijing University of Technology,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Georgia State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Gulf University for Science and Technology,KW,5000,900,500,16300,"Arabic, English","Bachelor, Master",Medium
+Jamia Millia Islamia,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Kansas State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Karaganda State Technical University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Kyrgyz Russian Slavic University,KG,2000,600,500,9700,"Kyrgyz, Russian","Bachelor, Master",Low
+Mendel University in Brno,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+Nagasaki University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Beijing Jiaotong University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+North-West University,ZA,6000,400,500,11300,"English, Afrikaans","Bachelor, Master",Medium
+Okayama University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Oklahoma State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Pavol Jozef Šafárik University in Košice,SK,2000,500,500,8500,"Slovak, English","Bachelor, Master",Low
+Poznan University of Life Sciences,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+Shahid Beheshti University (SBU),IR,2000,300,500,6100,Persian,"Bachelor, Master",Low
+Swarthmore College,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Technological University Dublin,IE,15000,1300,500,31100,English,"Bachelor, Master",Medium
+Thapar Institute of Engineering & Technology,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Tokyo University of Agriculture and Technology,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Universidad de Valladolid,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Universidad ORT Uruguay,UY,2000,500,500,8500,Spanish,"Bachelor, Master",Low
+Universita' degli Studi di Ferrara,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Université de Nantes,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Université de Sherbrooke,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Université du Québec,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+University at Albany SUNY,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University Duesseldorf,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+University of Dubai,AE,20000,1500,500,38500,"Arabic, English","Bachelor, Master",High
+UNIVERSITY OF GDANSK,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+University of Ghana,GH,3000,300,500,7100,English,"Bachelor, Master",Low
+University of Hertfordshire,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Lincoln,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Mississippi,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Palermo,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Santo Tomas,PH,3000,350,500,7700,"English, Filipino","Bachelor, Master",Low
+University of South Africa,ZA,6000,400,500,11300,"English, Afrikaans","Bachelor, Master",Medium
+University of Wroclaw,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+"Vietnam National University, Hanoi",VN,3000,300,500,7100,"Vietnamese, English","Bachelor, Master",Low
+Vilnius Gediminas Technical University,LT,3000,400,500,8300,"Lithuanian, English","Bachelor, Master",Low
+Virginia Commonwealth University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Yildiz Technical University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Australian Catholic University,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+China University of Geosciences,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Harbin Engineering University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Catania University,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Future University in Egypt,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Gazi Üniversitesi,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Georgian Technical University,GE,3000,600,500,10700,"Georgian, English","Bachelor, Master",Low
+German Jordanian University,JO,5000,500,500,11500,"Arabic, English","Bachelor, Master",Medium
+Imam Mohammad Ibn Saud Islamic University – IMSIU,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Kanazawa University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Karaganda Buketov University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Kyrgyz-Turkish Manas University,KG,2000,600,500,9700,"Kyrgyz, Russian","Bachelor, Master",Low
+Louisiana State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Makerere University,UG,2000,250,500,5500,English,"Bachelor, Master",Low
+"Manipal Academy of Higher Education, Manipal, Karnataka, India",IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Michigan Technological University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+National Research Saratov State University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Nicolaus Copernicus University,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+North South University,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+Osaka Metropolitan University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Princess Sumaya University for Technology,JO,5000,500,500,11500,"Arabic, English","Bachelor, Master",Medium
+Ritsumeikan Asia Pacific University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Robert Gordon University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+South Ural State University (National Research University),RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Universidad Católica del Uruguay (UCU),UY,2000,500,500,8500,Spanish,"Bachelor, Master",Low
+"Universidad Central ""Marta Abreu"" de Las Villas",CU,1000,600,500,8700,Spanish,"Bachelor, Master",Low
+Universidad EAFIT,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad Externado de Colombia,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad Nacional de Córdoba - UNC,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad Nacional Mayor de San Marcos,PE,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad Pontificia Bolivariana,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidade Católica Portuguesa - UCP,PT,3000,600,500,10700,"Portuguese, English","Bachelor, Master",Low
+Universidade de Vigo,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Università degli Studi della Tuscia (University of Tuscia),IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Università degli studi Roma Tre,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+"University of Alabama, Birmingham",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Calabria,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of East London,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Hail,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+University of Lodz,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+University of Maribor,SI,2000,600,500,9700,"Slovenian, English","Bachelor, Master",Low
+University of Murcia,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+University of Nairobi,KE,3000,350,500,7700,"English, Swahili","Bachelor, Master",Low
+University of Peshawar,PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+University of Salford,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University Paris 2 Panthéon-Assas,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Viet Nam National University Ho Chi Minh City (VNU-HCM),VN,3000,300,500,7100,"Vietnamese, English","Bachelor, Master",Low
+Worcester Polytechnic Institute,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Wroclaw University of Science and Technology (WRUST),PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+Yerevan State University,AM,3000,600,500,10700,Armenian,"Bachelor, Master",Low
+Yokohama City University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Almaty Technological University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Athens University of Economics and Business,GR,1500,500,500,8000,"Greek, English","Bachelor, Master",Low
+Auburn University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Baku State University,AZ,3000,600,500,10700,Azerbaijani,"Bachelor, Master",Low
+Bina Nusantara University (BINUS),ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Clark University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Clemson University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+D. Serikbayev East Kazakhstan state technical university,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Ferdowsi University of Mashhad,IR,2000,300,500,6100,Persian,"Bachelor, Master",Low
+Financial University under the Government of the Russian Federation,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Hallym University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Indian Institute of Technology Bhubaneswar,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Instituto Tecnológico de Buenos Aires (ITBA),AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Khon Kaen University,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+King Mongkut's University of Technology Thonburi,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+Kumamoto University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Mansoura University,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Niigata University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Northern Borders University,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Pontificia Universidad Católica del Ecuador (PUCE),EC,3000,350,500,7700,Spanish,"Bachelor, Master",Low
+Prince of Songkla University,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+"Queen Margaret University , Edinburgh",UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Rhodes University,ZA,6000,400,500,11300,"English, Afrikaans","Bachelor, Master",Medium
+Riga Stradins University,LV,3000,400,500,8300,"Latvian, English","Bachelor, Master",Low
+S.D. Asfendiyarov Kazakh National Medical University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Saveetha Institute of Medical and Technical Sciences (deemed to be university),IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Sophia University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Southern Federal University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+St. Louis University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+The University of Alabama,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+The University of Lahore,PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+Universidad Autónoma Metropolitana (UAM),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad de Córdoba - España,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Universidad de La Sabana,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad de León,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Universidad de los Andes - Chile,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad de San Andrés - UdeSA,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad Nacional de Rosario (UNR),AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad Técnica Federico Santa María (USM),CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad Torcuato Di Tella,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Université Sorbonne Paris Nord,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Université Toulouse 1 Capitole,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Universiti Pendidikan Sultan Idris (UPSI),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+University of Bahrain,BH,8000,800,500,18100,"Arabic, English","Bachelor, Master",Medium
+University of Central Lancashire,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Colombo,LK,2000,250,500,5500,"Sinhala, English","Bachelor, Master",Low
+University of Denver,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Parma,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of Regina,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+University of South Bohemia,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+University of the Western Cape,ZA,6000,400,500,11300,"English, Afrikaans","Bachelor, Master",Medium
+Yarmouk University,JO,5000,500,500,11500,"Arabic, English","Bachelor, Master",Medium
+Yeungnam University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Al-Azhar University,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Aligarh Muslim University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Amity University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Amrita Vishwa Vidyapeetham,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+An-Najah National University,PS,2000,600,500,9700,Arabic,"Bachelor, Master",Low
+"Arab Academy for Science, Technology and Maritime Transport",EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Assiut University,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Azerbaijan State Oil and Industry University,AZ,3000,600,500,10700,Azerbaijani,"Bachelor, Master",Low
+Azerbaijan State University of Economics,AZ,3000,600,500,10700,Azerbaijani,"Bachelor, Master",Low
+Banaras Hindu University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Baylor University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Bielefeld University,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Binghamton University SUNY,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Birmingham City University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+BRAC University,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+Brigham Young University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Canterbury Christ Church University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Chang Jung Christian University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Chung Yuan Christian University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Chungbuk National University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+College of William and Mary,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Corvinus University of Budapest,HU,5000,500,500,11500,"Hungarian, English","Bachelor, Master",Medium
+Cracow University of Technology (Politechnika Krakowska),PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+Dankook University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+EGE UNIVERSITY,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Escuela Superior Politécnica del Litoral (ESPOL),EC,3000,350,500,7700,Spanish,"Bachelor, Master",Low
+Fordham University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Gebze Technical University (GTU),TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+George Mason University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Gifu University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Glasgow Caledonian University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Gunma University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Guru Gobind Singh Indraprastha University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Jilin University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Nanjing Normal University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Howard University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Hungarian University of Agriculture and Life Sciences,HU,5000,500,500,11500,"Hungarian, English","Bachelor, Master",Medium
+Indiana University–Purdue University Indianapolis,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+International Christian University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+International Islamic University Islamabad (IIU),PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+Islamic University of Madinah,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+"ITESO, Universidad Jesuita de Guadalajara",MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Jiangnan University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Kagoshima University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Kangwon National University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Kazakh-British Technical University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Kent State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Kyushu Institute of Technology,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Leeds Beckett University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Lobachevsky University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Lodz University of Technology,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+London Metropolitan University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Loyola University Chicago,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Lviv Polytechnic National University,UA,3000,300,500,7100,"Ukrainian, English","Bachelor, Master",Low
+Marmara University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Mississippi State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Multimedia University (MMU),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Mustansiriyah University,IQ,2000,300,500,6100,Arabic,"Bachelor, Master",Low
+Mutah University,JO,5000,500,500,11500,"Arabic, English","Bachelor, Master",Medium
+Mykolas Romeris University,LT,3000,400,500,8300,"Lithuanian, English","Bachelor, Master",Low
+Southwest University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Narxoz University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+National Chung Cheng University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+"National Technical University ""Kharkiv Polytechnic Institute""",UA,3000,300,500,7100,"Ukrainian, English","Bachelor, Master",Low
+National University of Kyiv-Mohyla Academy (NaUKMA),UA,3000,300,500,7100,"Ukrainian, English","Bachelor, Master",Low
+NJSC KIMEP University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Northern Arizona University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Northwest University (China),CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+O.P. Jindal Global University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Ohio University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Panjab University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Paul Valéry University Montpellier,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Pontifícia Universidade Católica de São Paulo,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Pozna? University of Technology,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+Rochester Institute of Technology (RIT),US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Russian Presidential Academy of National Economy and Public Administration,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Saint Petersburg Electrotechnical University ETU-LETI,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Saint-Petersburg Mining University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Samara National Research University (Samara University),RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+San Diego State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Sheffield Hallam University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Shinshu University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+"Siberian Federal University, SibFU",RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Silesian University of Technology,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+Slovak University of Agriculture in Nitra,SK,2000,500,500,8500,"Slovak, English","Bachelor, Master",Low
+Slovak University of Technology in Bratislava,SK,2000,500,500,8500,"Slovak, English","Bachelor, Master",Low
+Sohar University,OM,8000,700,500,16900,"Arabic, English","Bachelor, Master",Medium
+Soonchunhyang University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Southern Methodist University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Hohai University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Sumy State University,UA,3000,300,500,7100,"Ukrainian, English","Bachelor, Master",Low
+Sungshin Women's University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Széchenyi István University,HU,5000,500,500,11500,"Hungarian, English","Bachelor, Master",Medium
+Taibah University,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+Tallinn University,EE,4000,500,500,10500,"Estonian, English","Bachelor, Master",Low
+Technical University of Kosice,SK,2000,500,500,8500,"Slovak, English","Bachelor, Master",Low
+Tecnológico de Costa Rica -TEC,CR,3000,600,500,10700,Spanish,"Bachelor, Master",Low
+Telkom University,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+The Hashemite University,JO,5000,500,500,11500,"Arabic, English","Bachelor, Master",Medium
+The University of Northampton,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+The University of Texas at Arlington,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Tokushima University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Tokyo Metropolitan University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Universidad Andrés Bello,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad Austral de Chile,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad Autónoma Chapingo,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Autónoma de Nuevo León,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Autónoma del Estado de México (UAEMex),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad de Castilla-La Mancha,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Universidad de Guadalajara (UDG),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad de La Frontera (UFRO),CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad de las Américas Puebla (UDLAP),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad de Lima,PE,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad de Los Andes - (ULA) Mérida,VE,1000,600,500,8700,Spanish,"Bachelor, Master",Low
+Universidad de Oviedo,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Universidad de Puerto Rico,PR,12000,600,500,19700,"Spanish, English","Bachelor, Master",Medium
+Universidad de Talca,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad del Norte,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad del Pacífico,PE,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad del Valle,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad Diego Portales (UDP),CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad ICESI,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad Nacional de Cuyo,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad Nacional de la Asunción,PY,2000,600,500,9700,Spanish,"Bachelor, Master",Low
+Universidad Nacional de San Luis,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN),AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad Peruana Cayetano Heredia (UPCH),PE,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad Rey Juan Carlos,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Universidad Simón Bolívar (USB),VE,1000,600,500,8700,Spanish,"Bachelor, Master",Low
+Universidad Tecnológica de Panamá (UTP),PA,3000,600,500,10700,Spanish,"Bachelor, Master",Low
+Universidad Tecnológica Nacional (UTN),AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidade da Coruña,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Universidade Federal de Pernambuco (UFPE),BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal de São Carlos (UFSCar),BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal do Paraná - UFPR,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal Fluminense,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+"Universita' degli Studi ""G. d'Annunzio"" Chieti Pescara",IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Università degli Studi di Udine,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Università del Salento,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Universitas Hasanuddin,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Universitas Sebelas Maret,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Universitat de Lleida,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+Universität Siegen,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+Université de Caen Normandie,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Université de Poitiers,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Université de Sfax,TN,2000,300,500,6100,"Arabic, French","Bachelor, Master",Low
+Université de Sousse,TN,2000,300,500,6100,"Arabic, French","Bachelor, Master",Low
+Université de Toulouse II-Le Mirail,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Université de Tunis,TN,2000,300,500,6100,"Arabic, French","Bachelor, Master",Low
+Université Lumière Lyon 2,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Université Mohammed V de Rabat,MA,3000,350,500,7700,"Arabic, French","Bachelor, Master",Low
+Université Paris-Nanterre,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Universiti Malaysia Sabah (UMS),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Universiti Malaysia Sarawak (UNIMAS),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Universiti Malaysia Terengganu (UMT),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Universiti Tun Hussein Onn University of Malaysia (UTHM),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+University of Arkansas Fayetteville,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Derby,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Deusto,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+University of Hradec Kralove,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+University of Ibadan,NG,2000,350,500,6700,English,"Bachelor, Master",Low
+University of Idaho,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Ioannina,GR,1500,500,500,8000,"Greek, English","Bachelor, Master",Low
+University of Karachi,PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+University of Khartoum,SD,1500,600,500,9200,"Arabic, English","Bachelor, Master",Low
+University of Lagos,NG,2000,350,500,6700,English,"Bachelor, Master",Low
+University of Louisville,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Massachusetts Boston,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+"University of Missouri, Kansas City",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Naples Parthenope,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+University of New England Australia,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+University of New Hampshire,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of North Carolina at Charlotte,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of North Texas,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Novi Sad,RS,2000,400,500,7300,"Serbian, English","Bachelor, Master",Low
+University of Rhode Island,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Sarajevo,BA,2000,600,500,9700,Bosnian,"Bachelor, Master",Low
+University of Seoul,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+University of Tabuk,SA,0,800,500,10100,"Arabic, English","Bachelor, Master",Low
+University of Texas at San Antonio,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Texas El Paso,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of the Free State,ZA,6000,400,500,11300,"English, Afrikaans","Bachelor, Master",Medium
+University of the Sunshine Coast,AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+University of Toledo,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Tulsa,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Vermont,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Warmia and Mazury in Olsztyn,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+University of Wolverhampton,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+University of Wyoming,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Žilina,SK,2000,500,500,8500,"Slovak, English","Bachelor, Master",Low
+Utah State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+VSB - Technical University of Ostrava,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+Warsaw University of Life Sciences – SGGW (WULS-SGGW),PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+West Virginia University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Xi'an Jiaotong Liverpool University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Yokohama National University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Al-Balqa Applied University,JO,5000,500,500,11500,"Arabic, English","Bachelor, Master",Medium
+Alexandru Ioan Cuza University,RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+Anadolu University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Aoyama Gakuin University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Ataturk University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Atma Jaya Catholic University Jakarta,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Bahauddin Zakariya University,PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+Beijing Foreign Studies University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Beijing University of Chinese Medicine,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Belarusian State University of Informatics and Radioelectronics,BY,2500,300,500,6600,"Russian, Belarusian","Bachelor, Master",Low
+Benemérita Universidad Autónoma de Puebla,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Birzeit university,PS,2000,600,500,9700,Arabic,"Bachelor, Master",Low
+British University in Egypt,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Brock University,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Central Michigan University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Chaoyang University of Technology,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+China University of Political Science and Law,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Chitkara University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Chittagong University of Engineering and Technology,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+Cleveland State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Cukurova University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+CUNY The City College of New York,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Daffodil International University,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+Damascus University,SY,1000,600,500,8700,Arabic,"Bachelor, Master",Low
+Dokuz Eylül Üniversitesi,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Doshisha University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Erciyes Üniversitesi,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Escuela Politécnica Nacional,EC,3000,350,500,7700,Spanish,"Bachelor, Master",Low
+Feng Chia University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Florida Atlantic University - Boca Raton,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Fu Jen Catholic University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Fundación CEU San Pablo,ES,3500,700,500,12400,"Spanish, English","Bachelor, Master",Low
+German University in Cairo,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Hanoi University of Science and Technology,VN,3000,300,500,7100,"Vietnamese, English","Bachelor, Master",Low
+Harper Adams University,UK,22000,1200,600,37000,English,"Bachelor, Master, PhD",High
+Helwan University,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Hongik University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Hue University,VN,3000,300,500,7100,"Vietnamese, English","Bachelor, Master",Low
+Instituto Tecnológico de Santo Domingo (INTEC),DO,3000,600,500,10700,Spanish,"Bachelor, Master",Low
+Istanbul Aydin University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Istanbul Bilgi Üniversitesi,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Ivan Franko National University of Lviv,UA,3000,300,500,7100,"Ukrainian, English","Bachelor, Master",Low
+Izmir Institute of Technology (IZTECH),TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Jahangirnagar University,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+Jamia Hamdard,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Jeju National University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Kazakh Ablai Khan University of International Relations and World Languages,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Kazan National Research Technological University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Kenyatta University,KE,3000,350,500,7700,"English, Swahili","Bachelor, Master",Low
+Kharkiv National University of Radio Electronics,UA,3000,300,500,7100,"Ukrainian, English","Bachelor, Master",Low
+Khulna University,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+Khulna University of Engineering and Technology,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+Kindai University (Kinki University),JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+King Mongkut\'s Institute of Technology Ladkrabang,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+King Mongkut's University of Technology North Bangkok,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+Kookmin University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Kwame Nkrumah University of Science and Technology,GH,3000,300,500,7100,English,"Bachelor, Master",Low
+Kyoto Institute of Technology,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Kyrgyz State Technical University,KG,2000,600,500,9700,"Kyrgyz, Russian","Bachelor, Master",Low
+Marquette University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Meiji University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Mendeleev University of Chemical Technology,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Miami University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Moscow Pedagogical State University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Nagoya Institute of Technology (NIT),JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+National Dong Hwa University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+National Research University Moscow Power Engineering Institute (MPEI),RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+National Taipei University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+National Taiwan Ocean University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Novosibirsk State Technical University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Óbuda University,HU,5000,500,500,11500,"Hungarian, English","Bachelor, Master",Medium
+Odessa I.I. Mechnikov National University,UA,3000,300,500,7100,"Ukrainian, English","Bachelor, Master",Low
+OSMANIA UNIVERSITY,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Perm State National Research University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Pondicherry University,IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Pontificia Universidad Catolica Madre y Maestra,DO,3000,600,500,10700,Spanish,"Bachelor, Master",Low
+Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS),BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Portland State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Pukyong National University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Rajshahi University,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+Rikkyo University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Saitama University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Saken Seifullin Kazakh Agrotechnical University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+San Francisco State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Sathyabama Institute of Science and Technology (deemed to be university),IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Seattle University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Seoul National University of Science and Technology,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Shahjalal University of Science and Technology,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+Shanghai International Studies University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Shanghai University of Finance and Economics,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Siksha 'O' Anusandhan (Deemed to be University),IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Sookmyung Women's University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Suez Canal University,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Suleyman Demirel University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+"Suleyman Demirel University, Kazakhstan",KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Suranaree University of Technology,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+Tamkang University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Tanta University,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Technical University of Cluj-Napoca,RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+Technical University of Liberec,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+Technical University of Lublin,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+Technische Universität Kaiserslautern,DE,500,800,400,10500,"German, English","Bachelor, Master, PhD",Low
+"The ""Gheorghe Asachi"" Technical University of Iasi",RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+The Herzen State Pedagogical University of Russia,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+The Josip Juraj Strossmayer University of Osijek,HR,2000,500,500,8500,"Croatian, English","Bachelor, Master",Low
+"The National Research University ""Belgorod State University""",RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Tokai University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Tomas Bata University in Zlin,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+Toraighyrov University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Transilvania University of Brasov,RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+Tunghai University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Universidad Autónoma de Guadalajara (UAG),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Autónoma del Estado de Hidalgo (UAEH),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Católica del Norte,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad Central del Ecuador,EC,3000,350,500,7700,Spanish,"Bachelor, Master",Low
+Universidad de Las Américas (UDLA) Ecuador,EC,3000,350,500,7700,Spanish,"Bachelor, Master",Low
+Universidad de Monterrey (UDEM),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad de Oriente Santiago de Cuba,CU,1000,600,500,8700,Spanish,"Bachelor, Master",Low
+Universidad de Panama,PA,3000,600,500,10700,Spanish,"Bachelor, Master",Low
+Universidad de Piura,PE,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad de San Carlos de Guatemala - USAC,GT,3000,600,500,10700,Spanish,"Bachelor, Master",Low
+Universidad de Tarapaca,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad de Valparaíso (UV),CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad del Bío-Bío,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad del Desarrollo (UDD),CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad del Salvador,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad del Zulia,VE,1000,600,500,8700,Spanish,"Bachelor, Master",Low
+Universidad Industrial de Santander - UIS,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad La Salle (ULSA),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Latinoamericana de Ciencia y Tecnología Costa Rica (ULACIT),CR,3000,600,500,10700,Spanish,"Bachelor, Master",Low
+Universidad Mayor de San Andrés (UMSA),BO,2000,600,500,9700,Spanish,"Bachelor, Master",Low
+Universidad Metropolitana,VE,1000,600,500,8700,Spanish,"Bachelor, Master",Low
+Universidad Nacional Agraria la Molina,PE,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad Nacional Autónoma de Honduras (UNAH),HN,2000,600,500,9700,Spanish,"Bachelor, Master",Low
+Universidad Nacional de Ingeniería Peru,PE,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad Nacional de Mar del Plata,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad Nacional de Río Cuarto - UNRC,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad Nacional de San Martín (UNSAM),AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad Nacional del Litoral,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad Nacional del Sur,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+"Universidad Nacional, Costa Rica",CR,3000,600,500,10700,Spanish,"Bachelor, Master",Low
+Universidad Peruana de Ciencias Aplicadas,PE,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidade do Estado do Rio de Janeiro (UERJ),BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal da Bahia,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal de Juiz de Fora- (UFJF),BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal de Pelotas,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal de Santa Maria,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal de Viçosa (UFV),BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal do Ceará (UFC),BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal do Rio Grande Do Norte,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Presbiteriana Mackenzie,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Università degli studi di Bergamo,IT,3000,700,500,11900,"Italian, English","Bachelor, Master",Low
+Universitas Islam Indonesia,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Universitas Muhammadiyah Yogyakarta,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Universitas Pendidikan Indonesia,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Universitas Sumatera Utara,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Universitatea de Vest din Timisoara / West University of Timisoara,RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+Université de Limoges,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Université Jean Moulin Lyon 3,FR,2800,900,300,13900,"French, English","Bachelor, Master, PhD",Low
+Universiti Kuala Lumpur (UniKL),MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Universiti Malaysia Perlis,MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+Universiti Teknikal Malaysia Melaka,MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+University of Babylon,IQ,2000,300,500,6100,Arabic,"Bachelor, Master",Low
+University of Basrah,IQ,2000,300,500,6100,Arabic,"Bachelor, Master",Low
+University of Bialystok,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+University of International Business and Economics,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+University of Kragujevac,RS,2000,400,500,7300,"Serbian, English","Bachelor, Master",Low
+University of Kufa,IQ,2000,300,500,6100,Arabic,"Bachelor, Master",Low
+University of Memphis,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Miskolc,HU,5000,500,500,11500,"Hungarian, English","Bachelor, Master",Medium
+University of Missouri Saint Louis,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Niš,RS,2000,400,500,7300,"Serbian, English","Bachelor, Master",Low
+University of North Carolina at Greensboro,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Ostrava,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+University of Pannonia,HU,5000,500,500,11500,"Hungarian, English","Bachelor, Master",Medium
+University of Pardubice,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+University of Peradeniya,LK,2000,250,500,5500,"Sinhala, English","Bachelor, Master",Low
+University of Primorska,SI,2000,600,500,9700,"Slovenian, English","Bachelor, Master",Low
+University of Rijeka,HR,2000,500,500,8500,"Croatian, English","Bachelor, Master",Low
+University of Rzeszów,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+University of San Diego,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of San Francisco,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Silesia in Katowice,PL,3000,500,500,9500,"Polish, English","Bachelor, Master",Low
+University of South Alabama (USA),US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Split,HR,2000,500,500,8500,"Croatian, English","Bachelor, Master",Low
+University of Sri Jayewardenepura,LK,2000,250,500,5500,"Sinhala, English","Bachelor, Master",Low
+University of the Pacific,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Tyumen,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+University of West Bohemia,CZ,3000,600,500,10700,"Czech, English","Bachelor, Master",Low
+University of Wisconsin Milwaukee,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University POLITEHNICA of Bucharest,RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+Vancouver Island University,CA,25000,1200,800,40200,"English, French","Bachelor, Master, PhD",High
+Voronezh State University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Western Michigan University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Yamaguchi University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Yogyakarta State University,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Youngsan University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Yuan Ze University,TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Zagazig University,EG,3000,300,500,7100,"Arabic, English","Bachelor, Master",Low
+Don State Technical University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Akdeniz Üniversitesi,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+California Polytechnic State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+California State University - Los Angeles,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+"California State University, Long Beach",US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Católica de Córdoba,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+East West University,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+Fundación Universidad De Bogotá-Jorge Tadeo Lozano,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Humboldt State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Illinois State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+"Indian Institute of Information Technology, Allahabad",IN,3000,300,500,7100,"English, Hindi","Bachelor, Master",Low
+Indiana State University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+"International University of Business, Agriculture and Technology (IUBAT)",BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+Irkutsk State University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Korkyt Ata Kyzylorda University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+Kwansei Gakuin University,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Lucian Blaga University of Sibiu,RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+M.Kh. Dulaty Taraz Regional University,KZ,3000,600,500,10700,"Kazakh, Russian","Bachelor, Master",Low
+MIREA - Russian Technological University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Moscow City University,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Naresuan University,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+National University of Life and Environmental Sciences of Ukraine,UA,3000,300,500,7100,"Ukrainian, English","Bachelor, Master",Low
+"National University of Modern Languages (NUML), Islamabad",PK,2000,200,500,4900,"Urdu, English","Bachelor, Master",Low
+Nova Southeastern University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+Pontifícia Universidade Católica de Minas Gerais – PUC Minas,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Pontificia Universidade Católica do Campinas - PUC Campinas,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Pontifícia Universidade Católica do Paraná,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Russian State Agrarian University - Moscow Timiryazev Agricultural Academy,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Russian State University for the Humanities,RU,4000,400,500,9300,"Russian, English","Bachelor, Master",Low
+Sakarya University,TR,5000,400,500,10300,"Turkish, English","Bachelor, Master",Medium
+Shanghai Normal University,CN,5000,500,300,11300,"Chinese, English","Bachelor, Master, PhD",Medium
+Shibaura Institute of Technology,JP,12000,900,500,23300,"Japanese, English","Bachelor, Master, PhD",Medium
+Silpakorn University,TH,5000,400,500,10300,"Thai, English","Bachelor, Master",Medium
+Soochow University (Taiwan),TW,4000,500,500,10500,"Chinese, English","Bachelor, Master",Low
+Soongsil University,KR,8000,700,400,16800,"Korean, English","Bachelor, Master, PhD",Medium
+Stamford University Bangladesh,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+State University of Malang,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Stefan cel Mare University of Suceava,RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+"The University of Notre Dame, Australia",AU,28000,1100,500,41700,English,"Bachelor, Master, PhD",High
+Udayana University,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+United International University,BD,2000,200,500,4900,"Bengali, English","Bachelor, Master",Low
+Universidad Alberto Hurtado,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad Autónoma de Aguascalientes,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Autónoma de Baja California,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Autónoma de Chile,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad Autónoma de Querétaro (UAQ),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Autónoma de San Luis de Potosí,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Autonoma de Yucatan,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Autónoma del Estado de Morelos (UAEM),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Bernardo O'Higgins,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+"Universidad Católica Boliviana ""San Pablo""",BO,2000,600,500,9700,Spanish,"Bachelor, Master",Low
+Universidad Católica de Colombia,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad Católica de La Santísima Concepción - UCSC,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad Católica de Santiago de Guayaquil,EC,3000,350,500,7700,Spanish,"Bachelor, Master",Low
+Universidad Católica de Temuco,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad Central de Chile,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad de Caldas,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad de Carabobo,VE,1000,600,500,8700,Spanish,"Bachelor, Master",Low
+Universidad de Cartagena,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad de Córdoba - Colombia,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad de Cuenca,EC,3000,350,500,7700,Spanish,"Bachelor, Master",Low
+Universidad de Guanajuato,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad de La Salle,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad de La Serena,CL,8000,500,500,14500,Spanish,"Bachelor, Master",Medium
+Universidad de las Fuerzas Armadas ESPE (Ex - Escuela Politécnica del Ejército),EC,3000,350,500,7700,Spanish,"Bachelor, Master",Low
+Universidad de Medellín,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad de Santander - UDES,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad de Sonora,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad del Cauca,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad del Valle de Mexico (UVM),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Michoacana de San Nicolás de Hidalgo,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad Nacional de Quilmes,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad Nacional de Tucumán,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+Universidad Nacional del Comahue,AR,0,350,500,4700,Spanish,"Bachelor, Master",Low
+UNIVERSIDAD POLITECNICA SALESIANA,EC,3000,350,500,7700,Spanish,"Bachelor, Master",Low
+Universidad Popular Autónoma del Estado de Puebla (UPAEP),MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidad San Ignacio de Loyola,PE,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad Tecnica Particular De Loja (UTPL),EC,3000,350,500,7700,Spanish,"Bachelor, Master",Low
+Universidad Tecnológica de Bolívar,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+"Universidad Tecnológica de la Habana José Antonio Echeverría, Cujae",CU,1000,600,500,8700,Spanish,"Bachelor, Master",Low
+Universidad Tecnológica de Pereira,CO,4000,400,500,9300,Spanish,"Bachelor, Master",Low
+Universidad Veracruzana,MX,5000,400,500,10300,Spanish,"Bachelor, Master",Medium
+Universidade do Estado de Santa Catarina,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Estadual de Londrina,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal da Paraíba,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal de Goiás,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal de Uberlândia,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal do Estado do Rio de Janeiro - UNIRIO,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universidade Federal do Parà - UFPA,BR,0,400,500,5300,Portuguese,"Bachelor, Master",Low
+Universitas Andalas,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Universitas Kristen Petra,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Universitas Muhammadiyah Surakarta,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+Universiti Sains Islam Malaysia,MY,5000,400,500,10300,"Malay, English","Bachelor, Master",Medium
+University of Central Oklahoma,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Craiova,RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+University of Lampung,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+University of Mataram,ID,3000,300,500,7100,"Indonesian, English","Bachelor, Master",Low
+University of Montana Missoula,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
+University of Oradea,RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+University of San Carlos,PH,3000,350,500,7700,"English, Filipino","Bachelor, Master",Low
+"University Politehnica of Timisoara, UPT",RO,3000,400,500,8300,"Romanian, English","Bachelor, Master",Low
+Western Washington University,US,35000,1500,1500,54500,English,"Bachelor, Master, PhD",High
