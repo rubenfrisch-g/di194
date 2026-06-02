@@ -2,12 +2,22 @@ import streamlit as st
 import pandas as pd
 from Knn_model import recommend, CONTINENT_COUNTRIES, ALL_LANGUAGES, get_student_level
 from pdf_export import generate_pdf
+from genai_explainer import generate_explanation
  
 st.set_page_config(page_title="University Recommender", page_icon="🎓", layout="wide")
  
 st.title("🎓 University Recommender")
 st.caption("Find the universities that match your profile using Machine Learning")
 st.divider()
+ 
+COLORS = {
+    "World Elite": "🔴",
+    "Elite":       "🟠",
+    "High Mid":    "🔵",
+    "Mid":         "🟡",
+    "Accessible":  "🟢",
+    "Open":        "⚪",
+}
  
 with st.sidebar:
     st.header("👤 Your Profile")
@@ -17,8 +27,7 @@ with st.sidebar:
     scale = st.selectbox("Grading system", [20, 100, 4], index=0)
     grade = st.slider(f"Your grade (out of {scale})", 0.0, float(scale), float(scale) * 0.7, 0.5)
     level_student = get_student_level(grade, scale)
-    colors = {"Elite": "🔴", "Mid": "🔵", "Accessible": "🟢"}
-    st.caption(f"**{grade}/{scale}** ({grade/scale*100:.0f}%) → {colors[level_student]} **{level_student}**")
+    st.caption(f"**{grade}/{scale}** ({grade/scale*100:.0f}%) → {COLORS[level_student]} **{level_student}**")
  
     st.divider()
  
@@ -41,23 +50,14 @@ with st.sidebar:
  
     # Languages
     st.subheader("🗣️ Languages Spoken")
-    languages = st.multiselect(
-        "Languages you speak",
-        options=ALL_LANGUAGES,
-        default=["English"],
-        help="We will filter universities that teach in these languages"
-    )
+    languages = st.multiselect("Languages you speak", options=ALL_LANGUAGES, default=["English"])
  
     st.divider()
  
     # Location
     st.subheader("🌍 Location")
     continent_options = ["All continents"] + list(CONTINENT_COUNTRIES.keys())
-    continents = st.multiselect(
-        "Desired continents",
-        options=continent_options,
-        default=["All continents"],
-    )
+    continents = st.multiselect("Desired continents", options=continent_options, default=["All continents"])
     if not continents:
         continents = ["All continents"]
  
@@ -81,10 +81,13 @@ if not run:
     ### How does it work?
     This system uses two Machine Learning algorithms :
  
-    - **K-Means** groups universities into 3 levels based on your grade :
-        - 🔴 **Elite** → 80% and above
-        - 🔵 **Mid** → between 65% and 80%
-        - 🟢 **Accessible** → below 65%
+    - **K-Means** groups universities into 6 levels based on your grade :
+        - 🔴 **World Elite** → 93% and above (MIT, Harvard, Oxford...)
+        - 🟠 **Elite** → 83% to 93% (ETH Zurich, Imperial, UCL...)
+        - 🔵 **High Mid** → 76% to 83% (McGill, Edinburgh, Melbourne...)
+        - 🟡 **Mid** → 63% to 76% (Sheffield, Adelaide, Utrecht...)
+        - 🟢 **Accessible** → 50% to 63%
+        - ⚪ **Open** → below 50%
  
     - **KNN (K-Nearest Neighbors)** finds the universities most suited to your profile within your level.
  
@@ -98,18 +101,14 @@ if not run:
  
 # Results
 else:
-    # Map "All levels" and "All continents" back for the model
-    level_param = None if level == "All levels" else level
-    continents_param = ["Tous les continents"] if "All continents" in continents else continents
- 
     with st.spinner("Analysing your profile..."):
         results = recommend(
             grade=grade,
             scale=scale,
-            subject=subject if subject != "All fields" else "Tous les domaines",
-            continents=continents_param,
+            subject=subject,
+            continents=continents,
             languages=languages if languages else None,
-            level=level_param,
+            level=level,
             n_recommendations=n_reco,
         )
  
@@ -121,7 +120,7 @@ else:
         st.subheader("📋 Your Profile")
         c1, c2, c3, c4 = st.columns(4)
         c1.metric("Grade", f"{grade}/{scale} ({grade/scale*100:.0f}%)")
-        c2.metric("Level", f"{colors[level_student]} {level_student}")
+        c2.metric("Level", f"{COLORS[level_student]} {level_student}")
         c3.metric("Field", subject.split("&")[0].strip())
         c4.metric("Languages", ", ".join(languages) if languages else "All")
  
@@ -129,9 +128,12 @@ else:
  
         unis = results["recommendations"]
         level_config = {
-            "Elite":      {"emoji": "🔴", "desc": "World's best universities — highly selective"},
-            "Mid":        {"emoji": "🔵", "desc": "Very good universities — selective"},
-            "Accessible": {"emoji": "🟢", "desc": "Accessible universities — good quality/accessibility ratio"},
+            "World Elite": {"emoji": "🔴", "desc": "World's most prestigious — extremely selective (top 1%)"},
+            "Elite":       {"emoji": "🟠", "desc": "World-class universities — highly selective"},
+            "High Mid":    {"emoji": "🔵", "desc": "Excellent universities — selective"},
+            "Mid":         {"emoji": "🟡", "desc": "Very good universities — moderately selective"},
+            "Accessible":  {"emoji": "🟢", "desc": "Good universities — accessible with solid grades"},
+            "Open":        {"emoji": "⚪", "desc": "Universities with open or flexible admission"},
         }
         lvl = results["level"]
         config = level_config[lvl]
@@ -175,6 +177,24 @@ else:
             st.write(df_result.to_html(escape=False, index=True), unsafe_allow_html=True)
             st.success(f"✅ {len(unis)} universities recommended for your profile!")
  
+            # AI Counselor
+            st.divider()
+            st.subheader("🤖 AI Counselor")
+            with st.spinner("Generating personalized advice..."):
+                try:
+                    explanation = generate_explanation(
+                        grade=grade,
+                        scale=scale,
+                        level=lvl,
+                        subject=subject,
+                        languages=languages,
+                        continents=continents,
+                        recommendations=unis,
+                    )
+                    st.info(explanation)
+                except Exception as e:
+                    st.warning(f"AI explanation unavailable: {e}")
+ 
             # PDF Export
             st.divider()
             pdf_bytes = generate_pdf(
@@ -189,8 +209,7 @@ else:
             st.download_button(
                 label="📄 Download PDF Report",
                 data=pdf_bytes,
-                file_name=f"university_recommendations_{lvl.lower()}.pdf",
+                file_name=f"university_recommendations_{lvl.lower().replace(' ', '_')}.pdf",
                 mime="application/pdf",
                 type="primary",
             )
- 
