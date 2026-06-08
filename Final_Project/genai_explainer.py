@@ -13,12 +13,14 @@ def generate_explanation(
 ) -> str:
     client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
  
-    # Build university list
     uni_list = ""
     for i, uni in enumerate(recommendations[:5], start=1):
-        uni_list += f"{i}. {uni.get('Institution Name', '')} ({uni.get('Location', '')}) — QS Score: {uni.get('score_numeric', 0):.1f}, Rank: #{int(uni.get('rank_numeric', 0))}\n"
+        name  = uni.get('Institution Name', '')
+        loc   = uni.get('Location', '')
+        score = uni.get('score_numeric', 0)
+        rank  = int(uni.get('rank_numeric', 0))
+        uni_list += f"{i}. {name} ({loc}) - QS Score: {score:.1f}, Rank: #{rank}\n"
  
-    # Detect teaching languages safely
     teaching_languages = set()
     for uni in recommendations[:5]:
         lang = uni.get("Languages", "")
@@ -28,55 +30,44 @@ def generate_explanation(
             if l:
                 teaching_languages.add(l)
  
-    # Build certification advice
     cert_lines = []
     if "english" in teaching_languages:
-        cert_lines.append("TOEFL (90+) or IELTS (6.5+) for English-taught programs")
+        cert_lines.append("TOEFL (90+) or IELTS (6.5+) for English programs")
     if "german" in teaching_languages:
-        cert_lines.append("TestDaF or DSH for German-taught programs")
+        cert_lines.append("TestDaF or DSH for German programs")
     if "french" in teaching_languages:
-        cert_lines.append("DELF/DALF (B2+) for French-taught programs")
+        cert_lines.append("DELF/DALF B2+ for French programs")
     if "dutch" in teaching_languages:
-        cert_lines.append("NT2 exam for Dutch-taught programs")
+        cert_lines.append("NT2 for Dutch programs")
     if "spanish" in teaching_languages:
-        cert_lines.append("DELE (B2+) for Spanish-taught programs")
+        cert_lines.append("DELE B2+ for Spanish programs")
     if "korean" in teaching_languages:
-        cert_lines.append("TOPIK (Level 3+) for Korean-taught programs")
+        cert_lines.append("TOPIK Level 3+ for Korean programs")
     if "japanese" in teaching_languages:
-        cert_lines.append("JLPT (N2+) for Japanese-taught programs")
+        cert_lines.append("JLPT N2+ for Japanese programs")
     if "chinese" in teaching_languages:
-        cert_lines.append("HSK (Level 4+) for Chinese-taught programs")
+        cert_lines.append("HSK Level 4+ for Chinese programs")
  
-    cert_advice = "\n".join(f"- {c}" for c in cert_lines) if cert_lines else "No specific certifications identified."
+    cert_advice    = ", ".join(cert_lines) if cert_lines else "No specific certifications needed"
+    langs_str      = ", ".join(languages) if languages else "English"
+    continents_str = ", ".join(continents) if "All continents" not in continents else "Worldwide"
  
-    prompt = f"""You are a university admissions counselor helping a student find the right university.
- 
-Student Profile:
-- Grade: {grade}/{scale} ({grade/scale*100:.0f}%)
-- Academic Level: {level}
-- Field of Study: {subject}
-- Languages spoken: {', '.join(languages) if languages else 'English'}
-- Preferred continents: {', '.join(continents) if 'All continents' not in continents else 'Worldwide'}
- 
-Recommended Universities:
-{uni_list}
- 
-Language certifications that may be required:
-{cert_advice}
- 
-Write a very short, friendly and personalized paragraph (3-4 sentences maximum) that:
-1. Explains why these universities match the student's profile
-2. Highlights what makes them a good fit for their field of study
-3. Mentions which language certifications they should prepare (TOEFL, IELTS, TestDaF, etc.)
-4. Ends with one encouraging piece of advice for the application process
- 
-Keep it concise, positive and motivating. Address the student directly."""
+    prompt = (
+        "You are a university admissions counselor.\n\n"
+        f"Student: Grade {grade}/{scale} ({grade/scale*100:.0f}%), "
+        f"Level: {level}, Field: {subject}, "
+        f"Languages: {langs_str}, Region: {continents_str}\n\n"
+        f"Universities:\n{uni_list}\n"
+        f"Certifications needed: {cert_advice}\n\n"
+        "Write 3 sentences: why these universities fit, "
+        "which certifications are needed, and one encouraging tip."
+    )
  
     response = client.chat.completions.create(
         model="llama-3.1-8b-instant",
         messages=[
             {"role": "system", "content": "You are a helpful university admissions counselor."},
-            {"role": "user", "content": prompt}
+            {"role": "user",   "content": prompt}
         ],
         max_tokens=150,
         temperature=0.7,

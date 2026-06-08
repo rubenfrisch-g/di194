@@ -22,7 +22,6 @@ COLORS = {
 with st.sidebar:
     st.header("👤 Your Profile")
  
-    # Grade
     st.subheader("📊 Academic Results")
     scale = st.selectbox("Grading system", [20, 100, 4], index=0)
     grade = st.slider(f"Your grade (out of {scale})", 0.0, float(scale), float(scale) * 0.7, 0.5)
@@ -31,13 +30,11 @@ with st.sidebar:
  
     st.divider()
  
-    # Study level
     st.subheader("🎓 Desired Study Level")
     level = st.selectbox("Level", ["All levels", "Bachelor", "Master", "PhD"])
  
     st.divider()
  
-    # Subject
     st.subheader("📚 Field of Study")
     subjects = [
         "All fields", "Engineering & Technology", "Computer Science",
@@ -48,13 +45,11 @@ with st.sidebar:
  
     st.divider()
  
-    # Languages
     st.subheader("🗣️ Languages Spoken")
     languages = st.multiselect("Languages you speak", options=ALL_LANGUAGES, default=["English"])
  
     st.divider()
  
-    # Location
     st.subheader("🌍 Location")
     continent_options = ["All continents"] + list(CONTINENT_COUNTRIES.keys())
     continents = st.multiselect("Desired continents", options=continent_options, default=["All continents"])
@@ -67,7 +62,6 @@ with st.sidebar:
     run = st.button("🔍 Find my universities", type="primary", use_container_width=True)
  
  
-# Home page
 if not run:
     col1, col2, col3 = st.columns(3)
     with col1:
@@ -99,7 +93,6 @@ if not run:
     - Your desired continent(s)
     """)
  
-# Results
 else:
     with st.spinner("Analysing your profile..."):
         results = recommend(
@@ -116,7 +109,6 @@ else:
         st.error(f"❌ {results['error']}")
         st.info("Try broadening your search: fewer filters or more continents.")
     else:
-        # Profile summary
         st.subheader("📋 Your Profile")
         c1, c2, c3, c4 = st.columns(4)
         c1.metric("Grade", f"{grade}/{scale} ({grade/scale*100:.0f}%)")
@@ -177,34 +169,22 @@ else:
             st.write(df_result.to_html(escape=False, index=True), unsafe_allow_html=True)
             st.success(f"✅ {len(unis)} universities recommended for your profile!")
  
-            # AI Counselor
             st.divider()
             st.subheader("🤖 AI Counselor")
             with st.spinner("Generating personalized advice..."):
                 try:
                     explanation = generate_explanation(
-                        grade=grade,
-                        scale=scale,
-                        level=lvl,
-                        subject=subject,
-                        languages=languages,
-                        continents=continents,
-                        recommendations=unis,
+                        grade=grade, scale=scale, level=lvl, subject=subject,
+                        languages=languages, continents=continents, recommendations=unis,
                     )
                     st.info(explanation)
                 except Exception as e:
                     st.warning(f"AI explanation unavailable: {e}")
  
-            # PDF Export
             st.divider()
             pdf_bytes = generate_pdf(
-                grade=grade,
-                scale=scale,
-                level=lvl,
-                subject=subject,
-                languages=languages,
-                continents=continents,
-                recommendations=unis,
+                grade=grade, scale=scale, level=lvl, subject=subject,
+                languages=languages, continents=continents, recommendations=unis,
             )
             st.download_button(
                 label="📄 Download PDF Report",
