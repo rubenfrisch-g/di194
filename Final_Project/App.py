@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from Knn_model import recommend, CONTINENT_COUNTRIES, ALL_LANGUAGES, get_student_level
+from KNN_model import recommend, CONTINENT_COUNTRIES, ALL_LANGUAGES, get_student_level
 from pdf_export import generate_pdf
 from genai_explainer import generate_explanation
  
