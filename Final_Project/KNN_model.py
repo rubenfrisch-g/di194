@@ -1,12 +1,15 @@
 import warnings
 warnings.filterwarnings("ignore")
  
+import os
 import numpy as np
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors
  
 from Final_project import load_data, get_feature_matrix, FEATURE_COLS
 from K_Mean_model import train_kmeans, assign_cluster_labels
+ 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
  
 CONTINENT_COUNTRIES = {
     "Europe": ["UK", "DE", "FR", "IT", "ES", "NL", "BE", "CH", "SE", "DK", "NO", "FI", "AT", "PL", "CZ", "PT", "IE", "GR", "HU", "RO"],
@@ -26,14 +29,6 @@ ALL_LANGUAGES = [
  
  
 def get_student_level(grade: float, scale: int) -> str:
-    """
-    93%+   → World Elite
-    83-93% → Elite
-    76-83% → High Mid
-    63-76% → Mid
-    50-63% → Accessible
-    <50%   → Open
-    """
     ratio = grade / scale * 100
     if ratio >= 93:
         return "World Elite"
@@ -63,14 +58,23 @@ def grade_to_profile(grade: float, scale: int = 20) -> dict:
  
  
 def load_merged_data(
-    path_main: str = "qs-world-rankings-2025.csv",
-    path_subjects: str = "qs_subjects.csv",
-    path_costs: str = "university_costs_complete.csv",
-    path_websites: str = "university_websites.csv",
+    path_main: str = None,
+    path_subjects: str = None,
+    path_costs: str = None,
+    path_websites: str = None,
 ) -> pd.DataFrame:
-    df_main = load_data(path_main)
+    if path_main is None:
+        path_main = os.path.join(BASE_DIR, "qs-world-rankings-2025.csv")
+    if path_subjects is None:
+        path_subjects = os.path.join(BASE_DIR, "qs_subjects.csv")
+    if path_costs is None:
+        path_costs = os.path.join(BASE_DIR, "university_costs_complete.csv")
+    if path_websites is None:
+        path_websites = os.path.join(BASE_DIR, "university_websites.csv")
+ 
+    df_main     = load_data(path_main)
     df_subjects = pd.read_csv(path_subjects)
-    df_costs = pd.read_csv(path_costs)
+    df_costs    = pd.read_csv(path_costs)
     df_websites = pd.read_csv(path_websites)
  
     df = df_main.merge(df_subjects, on="Institution Name", how="left")
@@ -134,10 +138,10 @@ def recommend(
     languages: list = None,
     level: str = None,
     n_recommendations: int = 5,
-    path_main: str = "qs-world-rankings-2025.csv",
-    path_subjects: str = "qs_subjects.csv",
-    path_costs: str = "university_costs_complete.csv",
-    path_websites: str = "university_websites.csv",
+    path_main: str = None,
+    path_subjects: str = None,
+    path_costs: str = None,
+    path_websites: str = None,
 ) -> dict:
     student_level = get_student_level(grade, scale)
  
@@ -180,16 +184,3 @@ def recommend(
  
     return {"level": student_level, "recommendations": recommended.to_dict(orient="records")}
  
- 
-if __name__ == "__main__":
-    print("Test 95% → World Elite...")
-    r = recommend(grade=19, scale=20, subject="Computer Science", continents=["All continents"], n_recommendations=3)
-    print(f"Level: {r['level']}")
-    for u in r.get("recommendations", []):
-        print(f"  {u['Institution Name']} — {u['score_numeric']:.1f}")
- 
-    print("\nTest 84% → Elite...")
-    r2 = recommend(grade=16.8, scale=20, subject="Computer Science", continents=["All continents"], n_recommendations=3)
-    print(f"Level: {r2['level']}")
-    for u in r2.get("recommendations", []):
-        print(f"  {u['Institution Name']} — {u['score_numeric']:.1f}")
