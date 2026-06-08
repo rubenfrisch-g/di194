@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
  
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+if not os.path.exists(os.path.join(BASE_DIR, "qs-world-rankings-2025.csv")):
+    BASE_DIR = os.getcwd()
  
 FEATURE_COLS = [
     "Academic Reputation",
